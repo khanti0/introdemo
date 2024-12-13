@@ -1,20 +1,13 @@
-h1 {
+body{
+  background-color: black;
+}
+
+p {
   color: green;
-  font-style: italic;
+  font-style: bold;
+  font-size: 30px;
 }
 
-.note {
-  color: grey;
-  padding-top: 3px;
-  font-size: 15px;
-}
-
-.error {
-  color: red;
-  background: lightgrey;
-  font-size: 20px;
-  border-style: solid;
-  border-radius: 5px;
-  padding: 10px;
-  margin-bottom: 10px;
+.pdfs {
+  display: flex;
 }
